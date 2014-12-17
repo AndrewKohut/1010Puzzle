@@ -57,7 +57,9 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="GameController.cs" />
-    <Compile Include="Grid.cs" />
+    <Compile Include="Grid.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="GridCell.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

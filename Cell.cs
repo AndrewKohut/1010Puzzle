@@ -13,6 +13,10 @@ namespace _1010
         protected int row, column;
         protected Color color;
 
+        public Color Color { get { return color; } }
+        public int Row { get { return row; } }
+        public int Column { get { return column; } }
+
         public Cell(int row, int column, Color color)
         {
             this.row = row;
@@ -20,9 +24,6 @@ namespace _1010
             this.color = color;
         }
 
-        public Color Color { get { return color; } }
-        public int Row { get { return row; } }
-        public int Column { get { return column; } }
 
         public GraphicsPath Draw(float x, float y, float width, float height, float radius)
         {

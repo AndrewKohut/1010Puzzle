@@ -23,10 +23,11 @@ namespace _1010
 
         public Point Position { get { return nullPosition; } }
         public Size PixelSize { get { return size; } }
+
         public int Width { get { return width; } }
         public int Height { get { return height; } }
 
-
+        
         public Grid(int width, int height, int cellSize, int separatorSize, Color backgroundColor, Color cellColor)
         {
             this.width = width;
