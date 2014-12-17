@@ -1,0 +1,18 @@
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\bin\Debug\1010.exe.config
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\bin\Debug\1010.exe
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\bin\Debug\1010.pdb
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\obj\Debug\1010.csprojResolveAssemblyReference.cache
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\obj\Debug\_1010.Form1.resources
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\obj\Debug\_1010.Properties.Resources.resources
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\obj\Debug\1010.csproj.GenerateResource.Cache
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\obj\Debug\1010.exe
+c:\users\cleoh_000\documents\visual studio 2012\Projects\1010\1010\obj\Debug\1010.pdb
+C:\Users\cleoh_000\1010Puzzle\bin\Debug\1010.exe.config
+C:\Users\cleoh_000\1010Puzzle\obj\Debug\1010.exe
+C:\Users\cleoh_000\1010Puzzle\obj\Debug\1010.pdb
+C:\Users\cleoh_000\1010Puzzle\bin\Debug\1010.exe
+C:\Users\cleoh_000\1010Puzzle\bin\Debug\1010.pdb
+C:\Users\cleoh_000\1010Puzzle\obj\Debug\1010.csprojResolveAssemblyReference.cache
+C:\Users\cleoh_000\1010Puzzle\obj\Debug\_1010.Form1.resources
+C:\Users\cleoh_000\1010Puzzle\obj\Debug\_1010.Properties.Resources.resources
+C:\Users\cleoh_000\1010Puzzle\obj\Debug\1010.csproj.GenerateResource.Cache
